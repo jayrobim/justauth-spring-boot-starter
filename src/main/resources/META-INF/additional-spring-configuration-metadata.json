@@ -1,0 +1,232 @@
+{
+  "hints": [
+    {
+      "name": "justauth.type.keys",
+      "values": [
+        {
+          "value": "GITHUB",
+          "description": "GITHUB."
+        },
+        {
+          "value": "WEIBO",
+          "description": "WEIBO."
+        },
+        {
+          "value": "GITEE",
+          "description": "GITEE."
+        },
+        {
+          "value": "DINGTALK",
+          "description": "DINGTALK."
+        },
+        {
+          "value": "DINGTALK_V2",
+          "description": "DINGTALK_V2."
+        },
+        {
+          "value": "DINGTALK_ACCOUNT",
+          "description": "DINGTALK_ACCOUNT."
+        },
+        {
+          "value": "BAIDU",
+          "description": "BAIDU."
+        },
+        {
+          "value": "CSDN",
+          "description": "CSDN."
+        },
+        {
+          "value": "CODING",
+          "description": "CODING."
+        },
+        {
+          "value": "OSCHINA",
+          "description": "OSCHINA."
+        },
+        {
+          "value": "ALIPAY",
+          "description": "ALIPAY."
+        },
+        {
+          "value": "QQ",
+          "description": "QQ."
+        },
+        {
+          "value": "WECHAT_OPEN",
+          "description": "WeChat open platform."
+        },
+        {
+          "value": "WECHAT_MP",
+          "description": "WeChat Official Platform."
+        },
+        {
+          "value": "TAOBAO",
+          "description": "TAOBAO."
+        },
+        {
+          "value": "GOOGLE",
+          "description": "GOOGLE."
+        },
+        {
+          "value": "FACEBOOK",
+          "description": "FACEBOOK."
+        },
+        {
+          "value": "DOUYIN",
+          "description": "DOUYIN."
+        },
+        {
+          "value": "LINKEDIN",
+          "description": "LINKEDIN."
+        },
+        {
+          "value": "MICROSOFT",
+          "description": "MICROSOFT."
+        },
+        {
+          "value": "MICROSOFT_CN",
+          "description": "MICROSOFT_CN."
+        },
+        {
+          "value": "MI",
+          "description": "MI."
+        },
+        {
+          "value": "TOUTIAO",
+          "description": "TOUTIAO."
+        },
+        {
+          "value": "TEAMBITION",
+          "description": "TEAMBITION."
+        },
+        {
+          "value": "RENREN",
+          "description": "RENREN."
+        },
+        {
+          "value": "PINTEREST",
+          "description": "PINTEREST."
+        },
+        {
+          "value": "STACK_OVERFLOW",
+          "description": "STACK_OVERFLOW."
+        },
+        {
+          "value": "HUAWEI",
+          "description": "HUAWEI."
+        },
+        {
+          "value": "HUAWEI_V3",
+          "description": "HUAWEI_V3."
+        },
+        {
+          "value": "WECHAT_ENTERPRISE",
+          "description": "WeChat enterprise platform."
+        },
+        {
+          "value": "WECHAT_ENTERPRISE_V2",
+          "description": "WeChat enterprise platform v2."
+        },
+        {
+          "value": "WECHAT_ENTERPRISE_QRCODE_THIRD",
+          "description": "WeChat enterprise qrcode third."
+        },
+        {
+          "value": "WECHAT_ENTERPRISE_WEB",
+          "description": "WeChat enterprise web."
+        },
+        {
+          "value": "KUJIALE",
+          "description": "KUJIALE."
+        },
+        {
+          "value": "GITLAB",
+          "description": "GITLAB."
+        },
+        {
+          "value": "MEITUAN",
+          "description": "MEITUAN."
+        },
+        {
+          "value": "ELEME",
+          "description": "ELEME."
+        },
+        {
+          "value": "TWITTER",
+          "description": "TWITTER."
+        },
+        {
+          "value": "FEISHU",
+          "description": "FEISHU."
+        },
+        {
+          "value": "GITLAB",
+          "description": "GITLAB."
+        },
+        {
+          "value": "JD",
+          "description": "JD."
+        },
+        {
+          "value": "ALIYUN",
+          "description": "ALIYUN."
+        },
+        {
+          "value": "XMLY",
+          "description": "XMLY."
+        },
+        {
+          "value": "AMAZON",
+          "description": "AMAZON."
+        },
+        {
+          "value": "SLACK",
+          "description": "SLACK."
+        },
+        {
+          "value": "LINE",
+          "description": "LINE."
+        },
+        {
+          "value": "OKTA",
+          "description": "OKTA."
+        },
+        {
+          "value": "PROGINN",
+          "description": "PROGINN."
+        },
+        {
+          "value": "AFDIAN",
+          "description": "AFDIAN."
+        },
+        {
+          "value": "APPLE",
+          "description": "APPLE."
+        },
+        {
+          "value": "FIGMA",
+          "description": "FIGMA."
+        },
+        {
+          "value": "WECHAT_MINI_PROGRAM",
+          "description": "WECHAT_MINI_PROGRAM."
+        },
+        {
+          "value": "QQ_MINI_PROGRAM",
+          "description": "QQ_MINI_PROGRAM."
+        }
+      ]
+    },
+    {
+      "name": "justauth.type.values",
+      "providers": [
+        {
+          "name": "handle-as",
+          "parameters": {
+            "target": "me.zhyd.oauth.config.AuthConfig"
+          }
+        }
+      ]
+    }
+  ]
+}
