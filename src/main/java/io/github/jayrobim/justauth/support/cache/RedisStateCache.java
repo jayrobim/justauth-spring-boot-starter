@@ -30,7 +30,6 @@ import java.util.concurrent.TimeUnit;
  * </p>
  *
  * @author yangkai.shen
- * @date Created in 2019-08-02 15:10
  */
 @RequiredArgsConstructor
 public class RedisStateCache implements AuthStateCache {

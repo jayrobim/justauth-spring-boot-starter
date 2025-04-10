@@ -38,7 +38,6 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
  * </p>
  *
  * @author yangkai.shen
- * @date Created in 2019/8/31 12:00
  */
 @Slf4j
 abstract class JustAuthStateCacheConfiguration {
