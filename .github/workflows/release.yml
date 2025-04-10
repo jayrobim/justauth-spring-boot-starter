@@ -30,6 +30,6 @@ jobs:
           MAVEN_TOKEN: ${{ secrets.OSSRH_TOKEN }}
           GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
         run: |
-          mvn -B clean deploy -P release \
-            -DskipTests \
+          mvn -B clean deploy -DskipTests \
+            --settings .github/maven/settings.xml \
             -Dgpg.passphrase=$GPG_PASSPHRASE
