@@ -192,6 +192,14 @@
     </pluginManagement>
   </build>
 
+  <distributionManagement>
+    <repository>
+      <id>central</id>
+      <name>Central Publishing Portal</name>
+      <url>https://central.sonatype.com/api/v1/publishing</url>
+    </repository>
+  </distributionManagement>
+
   <profiles>
     <profile>
       <id>release</id>
